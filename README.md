@@ -1,0 +1,2 @@
+# HopeHack
+Hope Hack Project
